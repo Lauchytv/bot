@@ -1,0 +1,41 @@
+{
+    "bot_config": {
+        "server_id": 948216941884108830,
+        "logs": 948216941884108833, 
+        "prefix": "/",
+        "token": "",
+        "twitch_channel": "948216941884108833"
+    },
+    "tfollow": {
+        "Top Dawgs": 3000,
+        "Platinum Customer": 1000,
+        "Diamond Customer": 800,
+        "Silver Customer": 300,
+        "Bronze Customer": 200,
+        "Server Booster": 50
+    },
+    "tfriend": {
+        "Top Dawgs": 3000,
+        "Platinum Customer ": 1000,
+        "Diamond Customer": 800,
+        "Silver Customer": 300,
+        "Bronze Customer": 200,
+        "Server Booster": 50
+    },
+    "treport": {
+        "Top Dawgs": 3000,
+        "Platinum Customer ": 1000,
+        "Diamond Customer": 800,
+        "Silver Customer": 300,
+        "Bronze Customer": 200,
+        "Server Booster": 50
+    },
+    "tspam": {
+        "Top Dawgs": 300,
+        "Platinum Customer ": 100,
+        "Gold": 80,
+        "Silver Customer": 30,
+        "Bronze Customer": 20,
+        "Server Booster": 15
+    }
+}
